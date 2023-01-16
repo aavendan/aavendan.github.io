@@ -15,6 +15,10 @@ p {
     text-align: center;
 }
 
+span {
+    text-align: center;
+}
+
 #seccionredes {
     width: 30%;
     margin: 0 auto;

@@ -94,3 +94,8 @@ nav ul {
 #seccioncontactenos div {
     grid-area: area5;
 }
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+}
